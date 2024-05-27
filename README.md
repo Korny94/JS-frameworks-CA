@@ -1,6 +1,6 @@
 # JS-Frameworks-CA
 
-![image](https://github.com/Korny94/javascript-frameworks-CA/blob/main/src/assets/jsFCaOverview.png))
+![image](https://github.com/Korny94/javascript-frameworks-CA/blob/main/src/assets/jsFCaOverview.png)
 
 ## Description
 
